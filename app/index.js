@@ -14,6 +14,8 @@ const Home = () => {
                 headerStyle : {backgroundColor: COLORS.lightWhite}
             }}
             />
+
+            
         </SafeAreaView>
     )
 }
